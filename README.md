@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-install dependencies with npm install
+Install dependencies with npm install
 
 Run using yarn start
 
